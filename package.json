@@ -1,0 +1,24 @@
+{
+  "name": "hapi-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial for learning Hapi",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Hopkinson",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevehopkinson/hapi-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stevehopkinson/hapi-tutorial/issues"
+  },
+  "homepage": "https://github.com/stevehopkinson/hapi-tutorial#readme"
+}
